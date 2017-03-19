@@ -1,0 +1,17 @@
+/* Styles go here */
+#child, #other{
+  width:100px;
+  cursor:pointer;
+  margin-bottom:5px;
+  background-color:#646ce8;
+  border:1px solid #6bb9ff;
+  color:#fff;
+}
+
+#parent{
+  width:200px;
+  height:200px;
+  background-color:#c8e6f9;
+  border-radius: 2px;
+  border: 1px solid #6bb9ff;
+}
